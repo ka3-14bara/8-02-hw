@@ -34,7 +34,7 @@
 
    systemctl enable zabbix-server zabbix-agent apache2
 
-   `![admin panel](https://github.com/ka3-14bara/8-03-hw/tree/main/img/log-on-admin-panel.png)` 
+   ![admin panel](https://github.com/ka3-14bara/8-03-hw/blob/main/img/log-on-admin-panel.png)
 
 ---
 
@@ -54,12 +54,12 @@
 
 ### Решение 2
 
-`![hosts](https://github.com/ka3-14bara/8-03-hw/tree/main/img/hosts.png)` 
+![hosts](https://github.com/ka3-14bara/8-03-hw/blob/main/img/hosts.png)
 
-`![log files on agent machines](https://github.com/ka3-14bara/8-03-hw/tree/main/img/log-files.png)` 
+![log files on agent machines](https://github.com/ka3-14bara/8-03-hw/blob/main/img/log-files.png)
 
-`![latest data zabbix](https://github.com/ka3-14bara/8-03-hw/tree/main/img/latest_data.png)` 
+![latest data zabbix](https://github.com/ka3-14bara/8-03-hw/blob/main/img/latest_data.png)
 
-`![dashboard example](https://github.com/ka3-14bara/8-03-hw/tree/main/img/dashboard.png)`
+![dashboard example](https://github.com/ka3-14bara/8-03-hw/blob/main/img/dashboard.png)
 
 ---
